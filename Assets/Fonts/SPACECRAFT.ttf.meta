@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 18cb378ff807be64d9d328b1b007904f
+timeCreated: 1504274170
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SPACECRAFT
+  fontNames:
+  - SPACECRAFT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
